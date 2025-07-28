@@ -1,0 +1,16 @@
+[
+  {
+    "id": "trauma",
+    "title": "응급상황 메뉴얼",
+    "subMenus": [
+      {
+        "id": "bladder_injury",
+        "title": "Bladder injury가 의심될 때 !!!!",
+        "description": "CT cystography\n\n1. Foley가 있어야 한다\n2. Abdominal non contrast CT 오더를 이용한다.\n3. Bonorex 350 ini 30 ml x 2 (contrast)를 처방한다.\n4. 영상의학과 12번 검사실에 전화한 후 contrast를 가져온다.\n5. Bonorex 30 ml x 2 (60Cc) + NS 150cc mix = a 210 cc= foley# Ol8 l bladder filling *\n6. Urine이 잘 drain 되어 bladder가 decompression 되었을 시에만 위에 용량을 사용한다. 만약 hematuria가 심해서 bladder가 hematoma등으로 용적이 심하게 줄어있다고 판단될 경우에는 용량 조절을 한다.",
+        "image": ""
+      }
+    ]
+  }
+]
+
+
